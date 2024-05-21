@@ -12,7 +12,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 .colorcito {
-  background-color: #f8f9fa;
+  background-color: #f8f9fa !important;
 }
 
 :root {
